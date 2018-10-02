@@ -1,2 +1,4 @@
 # hello-world
-this is the tutorial
+
+Hola mis amigos, me llamo Scott.
+Soy un esdiatante en Indiana Tech y me gusta jugar viedo juegos.
